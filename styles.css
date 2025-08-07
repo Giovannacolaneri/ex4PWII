@@ -1,0 +1,11 @@
+.minhaCalculadora{
+    text-align: center;
+    background-color: rgb(255, 207, 217);
+    width: 300px;
+    height: 350px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    border-color: rgb(255, 87, 115);
+    border-style: solid;
+}
